@@ -22,3 +22,7 @@
 
 [Thu 25-03-2021 11:06:48] [Client : ::1] [URI : /online_quiz_system/index.php/registration-2/] [error] 'The e-mail could not be sent. Possible reason: mail() function may have disabled by your host.' [Function : pie_save_registration] [Line : 3728] [File : C:\xampp\htdocs\online_quiz_system\wp-content\plugins\pie-register\pie-register.php]
 
+[Thu 25-03-2021 18:42:47] [Client : ::1] [URI : /online_quiz_system/index.php/registration-2/?redirect_to=http://localhost/online_quiz_system/index.php/registration-2/] [error] 'The e-mail could not be sent. Possible reason: mail() function may have disabled by your host.' [Function : send_admin_notifications] [Line : 3862] [File : C:\xampp\htdocs\online_quiz_system\wp-content\plugins\pie-register\pie-register.php]
+
+[Thu 25-03-2021 18:42:49] [Client : ::1] [URI : /online_quiz_system/index.php/registration-2/?redirect_to=http://localhost/online_quiz_system/index.php/registration-2/] [error] 'The e-mail could not be sent. Possible reason: mail() function may have disabled by your host.' [Function : pie_save_registration] [Line : 3728] [File : C:\xampp\htdocs\online_quiz_system\wp-content\plugins\pie-register\pie-register.php]
+
